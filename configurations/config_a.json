@@ -1,0 +1,18 @@
+{
+  "characters": [{
+    "name": "Knight",
+    "damage": 3,
+    "health": 8,
+    "accuracy": 0.7
+  }, {
+    "name": "Archer",
+    "damage": 2,
+    "health": 7,
+    "accuracy": 0.8
+  }, {
+    "name": "Wizard",
+    "damage": 2,
+    "health": 7,
+    "accuracy": 0.75
+  }]
+}
