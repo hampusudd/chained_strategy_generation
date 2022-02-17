@@ -7,7 +7,7 @@ class Prefix:
         self._pd = StringIO()
 
     def run(self, players, is_smg, m_i_s):
-        print("Running Prefix...")
+        self._pd.write("//Writing prefix\n")
 
         # Header
         if is_smg:

@@ -3,6 +3,9 @@ class Composition:
         self._n = None
         self._characters = characters
 
+    def get_characters(self):
+        return self._characters
+
     def __len__(self):
         return len(self._characters)
 
